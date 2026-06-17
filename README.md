@@ -8,5 +8,6 @@ Coloque seu nome aqui embaixo:
 
 ------------------------------------- SEU NOME AQUI -------------------------------------
 David Jorge da silva santos
+Diego Gomes Soares de Souza
 
 Lucas Ferreira da Costa Silva :]
