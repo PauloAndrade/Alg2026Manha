@@ -1,4 +1,9 @@
 # Alg2026Manha
 Repositório teste para os alunos de algoritmos da manhã.
 
-Professor Paulo Andrade
+Prof. Paulo Andrade 
+pandrade@uva.br
+
+Coloque seu nome aqui embaixo:
+
+
