@@ -8,3 +8,4 @@ Coloque seu nome aqui embaixo:
 
 ------------------------------------- SEU NOME AQUI -------------------------------------
 
+Simon Como
